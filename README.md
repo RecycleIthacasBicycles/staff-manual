@@ -36,8 +36,9 @@ individual while establishing the path for help.
 
 ----
 
->    Balance putting-the-tools-in-participants' hands with instructing them
->    about how to do repairs.
+>    Balance putting-the-tools-in-participants' hands with instructing
+>    them about how to do repairs.
+
 In open shop, for an inexperienced participant the first repair of a
 specific component should be performed as a demonstration by the
 facilitator, with detailed description and encouragement for questions.
@@ -66,6 +67,7 @@ always the autonomy of the participant.
 
 >    Balance granting participants the freedom to fail while also guiding
 >    their work.
+
 This often involves pretending not to be paying attention - though of course
 facilitators should always be paying attention. In a busy environment, the
 necessity for dividing time among multiple participants often provides easy
@@ -77,6 +79,7 @@ busy elsewhere.
 ----
 
 >    Check out participants' bikes for the ABCs of mechanical safety.
+
 When a participant brings in their own bike, it cannot be the requirement
 of the shop that the participant's bicycle not leave the premises unless
 safe, for obvious reasons. However, bikes built on-site and bikes sold
@@ -88,6 +91,7 @@ tactfully intervening accordingly.
 ----
 
 >    Check out participants' bikes for other things that can be wrong.
+
 Provided the participant has not identified themselves as competent and
 autonomous, inspection of the bike should be encouraged during introductions,
 though left optional and phrased as a question.
@@ -108,6 +112,7 @@ requirement the work they need involves.
 
 >    Intervene if unsafe bikes are about to roll out the door -- like
 >    ones with no brakes connected.
+
 Bikes brought in by participants cannot be controlled by the shop. But it is
 the job of facilitators to clearly inform participants of unsafe conditions
 in their bicycles. Participants sometimes take exception to being told
@@ -123,6 +128,7 @@ to do about any safety issue rests with that participant.
 
 >    Address issues of parts quality for recommending replacement versus
 >    repair.
+
 This kind of appraisal can happen liberally anywhere that safety is a
 concern - plastic brake levers, for instance. Where safety is not in question,
 this can happen as part of the ongoing conversation with a participant. In
@@ -150,6 +156,7 @@ suggest them?"
 ----
 
 >    Embody anti-oppression ethics for engagement with participants.
+
 A shared learning environment is about extension of power, which inherently
 contradicts oppression. The principle should be maintained that as long as
 safety is taken into consideration, each participant is worthy of and
@@ -172,6 +179,7 @@ disruption in their own ways unless further discussion is requested.
 ----
 
 >    Promote feminism in their engagement with participants.
+
 Always maintain awareness that millennia of social norms which consistently
 excluded women from autonomy, education, ownership of property, and industry
 is conditioning that bears upon us all, whether born male or female, and that
@@ -187,6 +195,7 @@ offered in the same setting.
 ----
 
 >    Sexuality and romance in the shop space.
+
 In most teacher/student relationships there is a power balance which favors
 the teacher.
 
