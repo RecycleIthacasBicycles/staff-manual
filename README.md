@@ -36,7 +36,7 @@ individual while establishing the path for help.
 
 ----
 
->    Balance putting-the-tools-in-participants'-hands with instructing them
+>    Balance putting-the-tools-in-participants' hands with instructing them
 >    about how to do repairs.
 In open shop, for an inexperienced participant the first repair of a
 specific component should be performed as a demonstration by the
