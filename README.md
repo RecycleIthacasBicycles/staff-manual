@@ -12,8 +12,10 @@ in daily functioning. Responses provided by cyclista.
 
 ask:
 "What are you hoping to get done today?"
+
 and:
 "How much time are you hoping to spend?"
+
 and:
 "What is the main kind of riding you want to do?"
 
@@ -28,6 +30,7 @@ of time (or money) requirements the work they need involves.
 
 ask:
 "Do you have any personal or professional mechanic experience?"
+
 and:
 "How much help do you want?"
 
@@ -147,8 +150,10 @@ suggestions accordingly.
 
 ask:
 "Do you want some recommendations for upgrades?"
+
 or:
 "Do you want my recommendations for this bike?"
+
 or:
 "I think there are some options you might find interesting. Should I
 suggest them?"
