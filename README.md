@@ -208,7 +208,7 @@ Teachers must provide the expected information in order to play their part
 in the expected exchange, but a student's part involves risk, as it entails
 not only extending trust to a teacher, but to some extent submitting to
 them. This inherent power imbalance creates not only an imperative, but
-also urgency, for responsible and safe conduct on the part of the teacher.
+also urgency for responsible and safe conduct on the part of the teacher.
 
 At the shop, the teacher role is one occupied by staff and volunteers involved
 in instruction and assistance, and participants often, but not always, take
