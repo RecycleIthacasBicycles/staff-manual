@@ -1,9 +1,9 @@
 # staff-manual
-Scripts and best practices for staff.
+Best practices for staff, with suggested scripts for participant engagement.
 
-Thanks to Josh on the bikecollectives.org thinktank mailing list for
-compiling the bulk of this list of conditions community shops encounter
-in daily functioning. Responses provided by cyclista.
+Thanks to Josh Bisker of NYC Mechanical Gardens for compiling the
+bulk of this list of conditions which community shops encounter in
+daily functioning. Responses provided by cyclista.
 
 ----
 
