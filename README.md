@@ -3,7 +3,7 @@ Best practices for staff, with suggested scripts for participant engagement.
 
 Thanks to Josh Bisker of NYC Mechanical Gardens for compiling the
 bulk of this list of conditions which community shops encounter in
-daily functioning. Responses provided by cyclista.
+daily functioning. Responses and scripts provided by cyclista.
 
 ----
 
