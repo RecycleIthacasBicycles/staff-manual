@@ -31,8 +31,11 @@ of time (or money) requirements the work they need involves.
 ask:
 "Do you have any personal or professional mechanic experience?"
 
-and:
+and (regardless of answer):
 "How much help do you want?"
+
+(in that order; the reverse, instead of being helpful, would just be
+passive-aggressive)
 
 This sets the stage for respecting the competency and agency of the
 individual while establishing the path for help.
