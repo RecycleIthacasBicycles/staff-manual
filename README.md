@@ -186,7 +186,7 @@ disruption in their own ways unless further discussion is requested.
 >    Promote feminism in their engagement with participants.
 
 Always maintain awareness that millennia of social norms which consistently
-excluded women from autonomy, education, ownership of property, and industry
+excluded women from autonomy, education, industry, and ownership of property
 is conditioning that bears upon us all, whether born male or female, and that
 this shapes our impressions of women's capabilities and aptitudes, even at a
 subconscious level. Positive actions are required to reverse this paradigm,
