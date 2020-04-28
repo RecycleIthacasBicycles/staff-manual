@@ -61,8 +61,8 @@ done by the facilitator; for instance, the facilitator may tighten one
 brake caliper, while the participant tightens the second one, under
 supervision. Sometimes, manually demonstrating a principle is enough,
 and the participant can use that principle to undertake the task by
-themselves; for instance pointing out the numbers on a tire pump gauge
-and the recommended pressure lettering on the side of a tire sets the
+themselves; for instance, pointing out the numbers on a tire pump gauge,
+followed by the recommended pressure lettering on the side of a tire, sets the
 stage for someone to inflate the tire by themselves. The end goal is
 always the autonomy of the participant.
 
