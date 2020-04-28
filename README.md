@@ -42,7 +42,7 @@ individual while establishing the path for help.
 >    Balance putting-the-tools-in-participants' hands with instructing
 >    them about how to do repairs.
 
-In open shop, for an inexperienced participant the first repair of a
+In open shop, for an inexperienced participant, the first repair of a
 specific component should be performed as a demonstration by the
 facilitator, with detailed description and encouragement for questions.
 This demonstration is helpful because remote-controlling an inexperienced
